@@ -40,9 +40,8 @@ namespace HelloWorld
                 default: 
                     teste = "Melhor idade";
                     break;
-
             }
-
+            
         }
     }
 }
