@@ -1,0 +1,13 @@
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.exe
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.deps.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.runtimeconfig.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.runtimeconfig.dev.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.dll
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\bin\Debug\netcoreapp3.1\EntendendoOO.pdb
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.csprojAssemblyReference.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.AssemblyInfoInputs.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.AssemblyInfo.cs
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.csproj.CoreCompileInputs.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.dll
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.pdb
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\GitHub\bootcamp-recovery\Aula03\EntendendoOO\EntendendoOO\obj\Debug\netcoreapp3.1\EntendendoOO.genruntimeconfig.cache

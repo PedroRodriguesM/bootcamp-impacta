@@ -91,8 +91,7 @@ namespace EntendendoOO
 
             try
             {
-                var tipoDePagamentoString = Console.ReadLine();
-                var tipoDePagamento = int.Parse(tipoDePagamentoString);
+                int tipoDePagamento = int.Parse(Console.ReadLine());
 
                 FormaDePagamento pagamento;
                 switch (tipoDePagamento)
