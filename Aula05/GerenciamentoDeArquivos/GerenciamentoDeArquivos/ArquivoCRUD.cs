@@ -131,7 +131,8 @@ namespace GerenciamentoDeArquivos
 
                     linhas.Add(linha);
                 }
-            } while (pararProcessamento == false);
+            } 
+            while (pararProcessamento == false);
 
             using (StreamWriter sw = File.CreateText(CaminhoCompleto))
             {
