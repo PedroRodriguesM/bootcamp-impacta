@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TesteDapper.Models
 {
-    public class Aluno
+    class Aluno
     {
         public int Id { get; set; }
         public string Nome { get; set; }
