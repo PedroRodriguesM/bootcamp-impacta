@@ -8,6 +8,7 @@ namespace TodoApi.Models
 {
     public class TodoApiDbContext : DbContext
     {
+        public DbSet<TodoItem> TodoItem { get; set; }
 
         public TodoApiDbContext(DbContextOptions<TodoApiDbContext> options)
             : base(options)
@@ -18,7 +19,5 @@ namespace TodoApi.Models
         {
             base.OnModelCreating(modelBuilder);
         }
-
-        public DbSet<TodoItem> TodoItem { get; set; }
     }
 }
